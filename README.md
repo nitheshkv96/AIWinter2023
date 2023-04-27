@@ -13,4 +13,5 @@ These are some of the projects I developed and executed as part of Academic cour
 
 
 Tools Used: Spyder, Jupyter Notebook, Google Colab
+
 ML Frameworks: Tensorflow, Keras, Pytorch, Natural Language Toolkit, Spacy, Gensim
