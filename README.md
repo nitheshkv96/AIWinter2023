@@ -2,7 +2,7 @@
 
 Hello!!
 
-These are some of the projects I developed and executed as part of Academic course work:
+These are some of the projects I developed and executed as part of Academic course work winter 2022
 
 1. ANN Image Classification: Developed an Artificail Neural Network based Image Classifier that classifies the MNIST dataset. No libraries are used and all the Class methods such as forward and backward propagation, loss computation, model training, model evaluation, cross validation and gradient descent are implemented from scratch
 2. Polynomial Regression: Developed a Polynomial Regression model with Ridge Regularization. No libraries are used and all the Class methods such as data cleaning, input data transformation, data scaling, loss computation, model training, model evaluation, cross validation and gradient descent are implemented from scratch
