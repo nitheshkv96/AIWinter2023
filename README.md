@@ -10,3 +10,7 @@ These are some of the projects I developed and executed as part of Academic cour
 4. Text Parser NLP: Developed a source code that parsers through large data, cleans the data and creates vocabulary list with document frequency for all the words in the vocabulary
 5. Topic Modeling and Text Summarization: Developed a probabilistic language model using Latent Dirichlet Allocation and Page Rank algorithms for topic modeling and text summarization respectively.
 6. Vision Transformer: Based on Transformer Encoder Architecture for NLP application, Developed a Vision Transfomer for compouter vision application specifically for image classification 
+
+
+Tools Used: Spyder, Jupyter Notebook, Google Colab
+ML Frameworks: Tensorflow, Keras, Pytorch, Natural Language Toolkit, Spacy, Gensim
